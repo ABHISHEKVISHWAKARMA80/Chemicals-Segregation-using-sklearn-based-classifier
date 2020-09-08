@@ -1,6 +1,6 @@
 # Chemicals-Segregation-using-sklearn-based-classifier
 
-There two chemical flasks labelled '1' and '0' which contains two different chemicals. extracted 3 features from these chemicals in order to distinguish between them.
+There two chemical flasks labelled '1' and '0' which contains two different chemicals. extracted 3 features (f1,f2,f3) from these chemicals in order to distinguish between them.
 
 Train: consists of two csv files 'LogisticXtrain' and 'LogisticYtrain'. 'LogisticXtrain' consists of the features whereas 'LogisticYtrain' consists of the labels associated with the features.
 
