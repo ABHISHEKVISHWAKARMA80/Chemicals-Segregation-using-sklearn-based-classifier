@@ -2,11 +2,10 @@
 
 There two chemical flasks labelled '1' and '0' which contains two different chemicals. extracted 3 features from these chemicals in order to distinguish between them.
 
-given two files 'test.csv' and 'train.csv'.
 
-Train: This files consists of two csv files LogisticXtrain and LogisticYtrain. Xtrain consists of the features whereas Ytrain consists of the labels associated with the features.
+Train: consists of two csv files LogisticXtrain and LogisticYtrain. Xtrain consists of the features whereas Ytrain consists of the labels associated with the features.
 
-Test: This file consists of two files LogisticXtest consisting of the features of test data and sample_output (which we have to classify).
+Test: consists of one file LogisticXtest consisting of the features of test data which we have to classify.
 
 # Scikit-learn
 
