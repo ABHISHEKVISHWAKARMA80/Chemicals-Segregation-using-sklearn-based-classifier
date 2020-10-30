@@ -13,3 +13,13 @@ Scikit-learn is a free machine learning library for Python. It features various 
 # Logistic Regression
 
 Logistic regression is a statistical model that in its basic form uses a logistic function to model a binary dependent variable, although many more complex extensions exist. In regression analysis, logistic regression (or logit regression) is estimating the parameters of a logistic model (a form of binary regression).
+
+- uses a logistic function to model a binary dependent variable (yes/no, 1/0, pos/nev, true/false).
+
+- Logistic Regression is used to predict the categorical dependent variable.
+
+- use to solve the classification problem.
+
+- it is unbiased, with lower variances.
+
+- The term “Logistic” is taken from the Logit function that is used in this method of classification. log[y/(1-y)] = C + B1X1 + B2X2 + ...
